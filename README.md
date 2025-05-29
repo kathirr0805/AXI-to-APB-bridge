@@ -23,6 +23,10 @@ This project implements an AXI3-compliant interconnect module in Verilog, design
 - Register-based pipelining for timing optimization
 - Synchronous reset and clock domains
 
+- ## Access Project Files
+
+All project simulation files, including Verilog source code : https://edaplayground.com/x/AJxU
+
 ## ⚙️ Interface Description
 
 ### AXI3 Master Inputs

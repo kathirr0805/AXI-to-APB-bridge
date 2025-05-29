@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="axi3_interconnect_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="axi3_interconnect_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999,998 ps"></ZoomStartTime>
+      <ZoomEndTime time="1,000,001 ps"></ZoomEndTime>
+      <Cursor1Time time="1,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="345"></NameColumnWidth>
+      <ValueColumnWidth column_width="260"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="60" />
+   <wvobject fp_name="/axi3_interconnect_tb/ACLK" type="logic">
+      <obj_property name="ElementShortName">ACLK</obj_property>
+      <obj_property name="ObjectShortName">ACLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/ARESETn" type="logic">
+      <obj_property name="ElementShortName">ARESETn</obj_property>
+      <obj_property name="ObjectShortName">ARESETn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_AWADDR" type="array">
+      <obj_property name="ElementShortName">M0_AWADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M0_AWADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_AWVALID" type="logic">
+      <obj_property name="ElementShortName">M0_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">M0_AWVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_AWREADY" type="logic">
+      <obj_property name="ElementShortName">M0_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">M0_AWREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_AWLEN" type="array">
+      <obj_property name="ElementShortName">M0_AWLEN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M0_AWLEN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_AWSIZE" type="array">
+      <obj_property name="ElementShortName">M0_AWSIZE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">M0_AWSIZE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_AWBURST" type="array">
+      <obj_property name="ElementShortName">M0_AWBURST[1:0]</obj_property>
+      <obj_property name="ObjectShortName">M0_AWBURST[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_WDATA" type="array">
+      <obj_property name="ElementShortName">M0_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M0_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_WSTRB" type="array">
+      <obj_property name="ElementShortName">M0_WSTRB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M0_WSTRB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_WVALID" type="logic">
+      <obj_property name="ElementShortName">M0_WVALID</obj_property>
+      <obj_property name="ObjectShortName">M0_WVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_WREADY" type="logic">
+      <obj_property name="ElementShortName">M0_WREADY</obj_property>
+      <obj_property name="ObjectShortName">M0_WREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_WLAST" type="logic">
+      <obj_property name="ElementShortName">M0_WLAST</obj_property>
+      <obj_property name="ObjectShortName">M0_WLAST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_BRESP" type="array">
+      <obj_property name="ElementShortName">M0_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">M0_BRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_BVALID" type="logic">
+      <obj_property name="ElementShortName">M0_BVALID</obj_property>
+      <obj_property name="ObjectShortName">M0_BVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M0_BREADY" type="logic">
+      <obj_property name="ElementShortName">M0_BREADY</obj_property>
+      <obj_property name="ObjectShortName">M0_BREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_AWADDR" type="array">
+      <obj_property name="ElementShortName">M1_AWADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M1_AWADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_AWVALID" type="logic">
+      <obj_property name="ElementShortName">M1_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">M1_AWVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_AWREADY" type="logic">
+      <obj_property name="ElementShortName">M1_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">M1_AWREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_AWLEN" type="array">
+      <obj_property name="ElementShortName">M1_AWLEN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M1_AWLEN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_AWSIZE" type="array">
+      <obj_property name="ElementShortName">M1_AWSIZE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">M1_AWSIZE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_AWBURST" type="array">
+      <obj_property name="ElementShortName">M1_AWBURST[1:0]</obj_property>
+      <obj_property name="ObjectShortName">M1_AWBURST[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_WDATA" type="array">
+      <obj_property name="ElementShortName">M1_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M1_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_WSTRB" type="array">
+      <obj_property name="ElementShortName">M1_WSTRB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">M1_WSTRB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_WVALID" type="logic">
+      <obj_property name="ElementShortName">M1_WVALID</obj_property>
+      <obj_property name="ObjectShortName">M1_WVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_WREADY" type="logic">
+      <obj_property name="ElementShortName">M1_WREADY</obj_property>
+      <obj_property name="ObjectShortName">M1_WREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_WLAST" type="logic">
+      <obj_property name="ElementShortName">M1_WLAST</obj_property>
+      <obj_property name="ObjectShortName">M1_WLAST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_BRESP" type="array">
+      <obj_property name="ElementShortName">M1_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">M1_BRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_BVALID" type="logic">
+      <obj_property name="ElementShortName">M1_BVALID</obj_property>
+      <obj_property name="ObjectShortName">M1_BVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/M1_BREADY" type="logic">
+      <obj_property name="ElementShortName">M1_BREADY</obj_property>
+      <obj_property name="ObjectShortName">M1_BREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_AWADDR" type="array">
+      <obj_property name="ElementShortName">S0_AWADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S0_AWADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_AWVALID" type="logic">
+      <obj_property name="ElementShortName">S0_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">S0_AWVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_AWREADY" type="logic">
+      <obj_property name="ElementShortName">S0_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">S0_AWREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_AWLEN" type="array">
+      <obj_property name="ElementShortName">S0_AWLEN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S0_AWLEN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_AWSIZE" type="array">
+      <obj_property name="ElementShortName">S0_AWSIZE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S0_AWSIZE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_AWBURST" type="array">
+      <obj_property name="ElementShortName">S0_AWBURST[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S0_AWBURST[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_WDATA" type="array">
+      <obj_property name="ElementShortName">S0_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S0_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_WSTRB" type="array">
+      <obj_property name="ElementShortName">S0_WSTRB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S0_WSTRB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_WVALID" type="logic">
+      <obj_property name="ElementShortName">S0_WVALID</obj_property>
+      <obj_property name="ObjectShortName">S0_WVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_WREADY" type="logic">
+      <obj_property name="ElementShortName">S0_WREADY</obj_property>
+      <obj_property name="ObjectShortName">S0_WREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_WLAST" type="logic">
+      <obj_property name="ElementShortName">S0_WLAST</obj_property>
+      <obj_property name="ObjectShortName">S0_WLAST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_BRESP" type="array">
+      <obj_property name="ElementShortName">S0_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S0_BRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_BVALID" type="logic">
+      <obj_property name="ElementShortName">S0_BVALID</obj_property>
+      <obj_property name="ObjectShortName">S0_BVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S0_BREADY" type="logic">
+      <obj_property name="ElementShortName">S0_BREADY</obj_property>
+      <obj_property name="ObjectShortName">S0_BREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_AWADDR" type="array">
+      <obj_property name="ElementShortName">S1_AWADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_AWADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_AWVALID" type="logic">
+      <obj_property name="ElementShortName">S1_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">S1_AWVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_AWREADY" type="logic">
+      <obj_property name="ElementShortName">S1_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">S1_AWREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_AWLEN" type="array">
+      <obj_property name="ElementShortName">S1_AWLEN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_AWLEN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_AWSIZE" type="array">
+      <obj_property name="ElementShortName">S1_AWSIZE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_AWSIZE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_AWBURST" type="array">
+      <obj_property name="ElementShortName">S1_AWBURST[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_AWBURST[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_WDATA" type="array">
+      <obj_property name="ElementShortName">S1_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_WDATA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_WSTRB" type="array">
+      <obj_property name="ElementShortName">S1_WSTRB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_WSTRB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_WVALID" type="logic">
+      <obj_property name="ElementShortName">S1_WVALID</obj_property>
+      <obj_property name="ObjectShortName">S1_WVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_WREADY" type="logic">
+      <obj_property name="ElementShortName">S1_WREADY</obj_property>
+      <obj_property name="ObjectShortName">S1_WREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_WLAST" type="logic">
+      <obj_property name="ElementShortName">S1_WLAST</obj_property>
+      <obj_property name="ObjectShortName">S1_WLAST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_BRESP" type="array">
+      <obj_property name="ElementShortName">S1_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_BRESP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_BVALID" type="logic">
+      <obj_property name="ElementShortName">S1_BVALID</obj_property>
+      <obj_property name="ObjectShortName">S1_BVALID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/S1_BREADY" type="logic">
+      <obj_property name="ElementShortName">S1_BREADY</obj_property>
+      <obj_property name="ObjectShortName">S1_BREADY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/memory" type="array">
+      <obj_property name="ElementShortName">memory[0:255][31:0]</obj_property>
+      <obj_property name="ObjectShortName">memory[0:255][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/axi3_interconnect_tb/peripheral_reg" type="array">
+      <obj_property name="ElementShortName">peripheral_reg[31:0]</obj_property>
+      <obj_property name="ObjectShortName">peripheral_reg[31:0]</obj_property>
+   </wvobject>
+</wave_config>
